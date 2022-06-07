@@ -1,4 +1,4 @@
-# MindPeace Music Therapr- Music Therapy for [MindPeace](https://github.com/supanthapaul/mindpeace)
+# MindPeace Music Therapy- Music Therapy for [MindPeace](https://github.com/supanthapaul/mindpeace)
  
 ## About The Project
 
